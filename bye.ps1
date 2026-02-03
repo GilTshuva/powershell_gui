@@ -62,3 +62,5 @@ while ($form.Visible) {
     [System.Windows.Forms.Application]::DoEvents()
     Start-Sleep -Milliseconds 10
 }
+
+https://youtube.com/playlist?list=PLsUn-BEMpY3eRK1B5x_PhNqNoFlQoIOyQ&si=EpIBGLRO--iwtuvz
